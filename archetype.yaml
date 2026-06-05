@@ -1,0 +1,12 @@
+---
+description: ".NET Resource Library: S3 Object Storage (AWSSDK.S3)"
+authors: ["Jimmie Fulton <jimmie@ybor.ai>"]
+languages: ["CSharp"]
+tags: ["s3", "storage", "resource", "library"]
+
+requires:
+  archetect: "3.0.0"
+
+templating:
+  trim_blocks: true
+  lstrip_blocks: true
