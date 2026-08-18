@@ -2,7 +2,7 @@ using Amazon;
 using Amazon.Runtime;
 using Amazon.S3;
 
-namespace {{ PrefixName }}{{ SuffixName }}.Resources;
+namespace {{ ProjectName }}.Resources;
 
 public static class StorageS3Extensions
 {
